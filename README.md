@@ -55,11 +55,9 @@ I'm a **Programmer + Architect** blending logic and creativity to craft apps, po
 ---
 
 ## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@kennethdera-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome)](https://kennethdera.github.io/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth%20Dera-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethdera)
+[![Twitter](https://img.shields.io/badge/Twitter-@kennethdera-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kennethdera)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kennethdera.github.io/)
 ---
 
 > “Code is architecture, and architecture is code. Build boldly.” 🏗️💡
